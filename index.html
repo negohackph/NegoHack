@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>NegoHack — Resilience First. Credit Second</title>
+  <title>negoHACK — Resilience First. Credit Second.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -24,21 +24,26 @@
       to {opacity: 1; transform: translateY(0);}
     }
     img {
-      width: 160px;
+      width: 180px;
       max-width: 80%;
       margin-bottom: 24px;
       border-radius: 12px;
+      box-shadow: 0 0 20px rgba(242,194,0,0.4);
       animation: pulse 3s ease-in-out infinite;
     }
     @keyframes pulse {
-      0% {box-shadow: 0 0 8px rgba(242,194,0,0.3);}
-      50% {box-shadow: 0 0 18px rgba(242,194,0,0.6);}
-      100% {box-shadow: 0 0 8px rgba(242,194,0,0.3);}
+      0% {box-shadow: 0 0 10px rgba(242,194,0,0.4);}
+      50% {box-shadow: 0 0 25px rgba(0,198,184,0.6);}
+      100% {box-shadow: 0 0 10px rgba(242,194,0,0.4);}
     }
     h1 {
-      font-size: 2.4em;
-      margin-bottom: 0.5em;
+      font-size: 2.6em;
+      margin-bottom: 0.4em;
       color: #f2c200;
+      letter-spacing: 0.5px;
+    }
+    span.teal {
+      color: #00c6b8;
     }
     p {
       line-height: 1.6;
@@ -53,21 +58,26 @@
       text-decoration: none;
       border-radius: 8px;
       font-weight: 600;
-      transition: background 0.2s ease;
+      transition: background 0.2s ease, transform 0.1s ease;
       margin: 6px;
     }
     a.button:hover {
-      background: #ffe05c;
+      background: #00c6b8;
+      color: #0b1020;
+      transform: translateY(-2px);
+    }
+    .social-links {
+      margin-top: 16px;
     }
     .social-links a {
-      margin: 0 10px;
+      margin: 0 8px;
       color: #e6eef8;
       text-decoration: none;
       font-size: 1.4em;
       transition: color 0.2s ease;
     }
     .social-links a:hover {
-      color: #f2c200;
+      color: #00c6b8;
     }
     footer {
       font-size: 0.9em;
@@ -78,11 +88,13 @@
 </head>
 <body>
   <main>
-    <img src="16_20250930_180114_0015.jpg" alt="NegoHack logo">
-    <h1>NegoHack</h1>
+    <img src="16_20250930_180114_0015.jpg" alt="negoHACK logo">
+    <h1><span class="teal">nego</span>HACK</h1>
     <p>
-      NegoHack is a ResilienceTech platform helping Filipino microentrepreneurs escape the debt trap by making resilience the first step before credit. It unites MicroERP, Microinsurance, and Microfinance to reward good habits—record-keeping, savings, and disaster readiness.
+      negoHACK is a ResilienceTech platform helping Filipino microentrepreneurs escape the debt trap by making resilience the first step before credit. 
+      It unites MicroERP, Microinsurance, and Microfinance to reward good habits — record-keeping, savings, and disaster readiness.
     </p>
+
     <a href="mailto:negohackph@gmail.com" class="button">Join the Pilot</a>
     <a href="about.html" class="button">Learn More</a>
 
@@ -93,7 +105,7 @@
     </div>
 
     <footer>
-      Built by NegoHACK © 2025 · Resilience First. Credit Second.
+      Built by negoHACK © 2025 · Resilience First. Credit Second.
     </footer>
   </main>
 </body>
