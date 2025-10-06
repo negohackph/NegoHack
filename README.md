@@ -1,6 +1,7 @@
-# 🛡️ NegoHack — Resilience First. Credit Second.
 
-**NegoHack** is a ResilienceTech platform helping Filipino microentrepreneurs escape the debt trap by making **resilience the first step before credit**.  
+# 🛡️ **negoHACK — Resilience First. Credit Second.**
+
+**negoHACK** is a **ResilienceTech** platform helping Filipino microentrepreneurs escape the debt trap by making **resilience the first step before credit**.  
 It unites **MicroERP**, **Microinsurance**, and **Microfinance** into one behavioral system that rewards good business habits — record-keeping, savings, and disaster readiness.
 
 ---
@@ -8,7 +9,7 @@ It unites **MicroERP**, **Microinsurance**, and **Microfinance** into one behavi
 ## 🚀 Mission
 
 To flip the system — from *“credit first, resilience optional”* to *“resilience first, credit second.”*  
-NegoHack empowers sari-sari stores, carinderias, and vendors to build resilience, secure protection, and access smarter credit.
+negoHACK empowers sari-sari stores, carinderias, and vendors to build resilience, secure protection, and access smarter credit.
 
 ---
 
@@ -17,29 +18,30 @@ NegoHack empowers sari-sari stores, carinderias, and vendors to build resilience
 - **MicroERP** — Simple digital tracking for income, expenses, and inventory  
 - **Microinsurance** — Embedded coverage and adaptive protection  
 - **Microfinance** — Resilience-based lending powered by behavior insights  
-- **HackPoints™** — Rewards for good habits  
+- **HackPoints™** — Rewards for good business habits  
 - **NegoScore™** — Dynamic resilience and credit scoring  
 
 ---
 
 ## 🌍 Pilot Program
 
-We’re launching our pilot in **Cebu, Philippines**, partnering with microenterprises, local LGUs, and insurance providers to validate our **Resilience-First Credit Model**.
+The pilot phase begins in **Cebu, Philippines**, partnering with microenterprises, local LGUs, and insurance providers to validate the **Resilience-First Credit Model**.  
+Each pilot vendor will have access to tools, protection, and financial data designed to build resilience before credit.
 
-If you’d like to collaborate, mentor, or support our pilot — reach out below.
+If you’d like to collaborate, mentor, or support the mission:
 
 📩 **Email:** [negohackph@gmail.com](mailto:negohackph@gmail.com)  
 🌐 **Website:** [https://negohackph.github.io/NegoHack](https://negohackph.github.io/NegoHack)  
 💼 **LinkedIn:** [Rhoniel Caballero](https://www.linkedin.com/in/rhonielcaballero)  
-📘 **Facebook:** [NegoHack](https://www.facebook.com/share/14Tu5W5V1fK/)
+📘 **Facebook:** [negoHACK](https://www.facebook.com/share/14Tu5W5V1fK/)
 
 ---
 
 ## 🧭 Vision
 
-To build a **Resilience-First Fintech Ecosystem** that transforms every microenterprise into a **shock-ready, fundable business** — one habit at a time.
+To build a **Resilience-First Fintech Ecosystem** that transforms every Filipino microenterprise into a **shock-ready, fundable business** — one habit at a time.
 
-> Built by **NegoHACK © 2025**  
+> Built by **negoHACK © 2025**  
 > *Resilience First. Credit Second.*
 
 ---
@@ -47,11 +49,11 @@ To build a **Resilience-First Fintech Ecosystem** that transforms every microent
 ## 🤝 Contributors & Credits
 
 **Founder & Lead:**  
-👤 [Rhoniel Caballero](https://www.linkedin.com/in/rhonielcaballero) — Founder, NegoHack PH  
-  
+👤 [Rhoniel Caballero](https://www.linkedin.com/in/rhonielcaballero) — Founder, negoHACK PH  
+
 
 **Community & Ecosystem Partners:**  
-- DTI, DOST, DICT Region VII 
+- DTI, DOST, DICT Region VII  
 - Visayas Startup Community & All Aboard Cebu Mixer
 - Wadhwani Foundation 
 - Geeks on a Beach 2025 Participants  
@@ -60,10 +62,10 @@ To build a **Resilience-First Fintech Ecosystem** that transforms every microent
 
 ## 🧩 Acknowledgment
 
-NegoHack was born from lived experience — from sari-sari stores, carinderias, and microenterprises that have weathered storms, floods, and pandemics.  
+negoHACK was born from lived experience — from sari-sari stores, carinderias, and vendors that have weathered storms, floods, and pandemics.  
 This platform exists for them — to transform **fragility into resilience** and **resilience into creditworthiness**.
 
 ---
 
 > “We don’t just rebuild after disasters — we prepare, protect, and progress.”  
-> — *negoHACK Team*
+> — *The negoHACK Team*
