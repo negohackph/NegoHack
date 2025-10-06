@@ -17,6 +17,23 @@
       padding: 80px 20px;
       max-width: 720px;
       margin: auto;
+      animation: fadeIn 1.2s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(15px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+    img {
+      width: 160px;
+      max-width: 80%;
+      margin-bottom: 24px;
+      border-radius: 12px;
+      animation: pulse 3s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0% {box-shadow: 0 0 8px rgba(242,194,0,0.3);}
+      50% {box-shadow: 0 0 18px rgba(242,194,0,0.6);}
+      100% {box-shadow: 0 0 8px rgba(242,194,0,0.3);}
     }
     h1 {
       font-size: 2.4em;
@@ -28,7 +45,7 @@
       font-size: 1.1em;
       margin-bottom: 1.5em;
     }
-    a {
+    a.button {
       display: inline-block;
       padding: 12px 22px;
       background: #f2c200;
@@ -37,9 +54,20 @@
       border-radius: 8px;
       font-weight: 600;
       transition: background 0.2s ease;
+      margin-bottom: 1.2em;
     }
-    a:hover {
+    a.button:hover {
       background: #ffe05c;
+    }
+    .social-links a {
+      margin: 0 10px;
+      color: #e6eef8;
+      text-decoration: none;
+      font-size: 1.4em;
+      transition: color 0.2s ease;
+    }
+    .social-links a:hover {
+      color: #f2c200;
     }
     footer {
       font-size: 0.9em;
@@ -50,14 +78,21 @@
 </head>
 <body>
   <main>
-    <img src="16_20250930_180114_0015.jpg" alt="NegoHack logo" style="width:160px;max-width:80%;margin-bottom:24px;border-radius:12px;box-shadow:0 0 12px rgba(242,194,0,0.4);">
+    <img src="16_20250930_180114_0015.jpg" alt="NegoHack logo">
     <h1>NegoHack</h1>
     <p>
       NegoHack is a ResilienceTech platform helping Filipino microentrepreneurs escape the debt trap by making resilience the first step before credit. It unites MicroERP, Microinsurance, and Microfinance to reward good habits—record-keeping, savings, and disaster readiness.
     </p>
-    <a href="mailto:hello@negohack.ph">Join the Pilot</a>
+    <a href="mailto:Negohackph@gmail.com" class="button">Join the Pilot</a>
+
+    <div class="social-links">
+      <a href="https://www.facebook.com/share/14Tu5W5V1fK/" title="Facebook">🌐</a>
+      <a href="https://linkedin.com/in/rhonielcaballero" title="Founder LinkedIn">💼</a>
+      <a href="mailto:Negohackph@gmail.com" title="Email">✉️</a>
+    </div>
+
     <footer>
-      Built by negohackph © 2025 · Resilience Before Credit
+      Built by negohackph © 2025 · Resilience First. Credit Second. 
     </footer>
   </main>
 </body>
