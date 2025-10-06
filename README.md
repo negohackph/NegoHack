@@ -41,3 +41,29 @@ To build a **Resilience-First Fintech Ecosystem** that transforms every microent
 
 > Built by **NegoHACK © 2025**  
 > *Resilience First. Credit Second.*
+
+---
+
+## 🤝 Contributors & Credits
+
+**Founder & Lead:**  
+👤 [Rhoniel Caballero](https://www.linkedin.com/in/rhonielcaballero) — Founder, NegoHack PH  
+  
+
+**Community & Ecosystem Partners:**  
+- DTI, DOST, DICT Region VII 
+- Visayas Startup Community & All Aboard Cebu Mixer
+- Wadhwani Foundation 
+- Geeks on a Beach 2025 Participants  
+
+---
+
+## 🧩 Acknowledgment
+
+NegoHack was born from lived experience — from sari-sari stores, carinderias, and microenterprises that have weathered storms, floods, and pandemics.  
+This platform exists for them — to transform **fragility into resilience** and **resilience into creditworthiness**.
+
+---
+
+> “We don’t just rebuild after disasters — we prepare, protect, and progress.”  
+> — *negoHACK Team*
