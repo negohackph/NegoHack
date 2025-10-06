@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>About NegoHack — Resilience First. Credit Second</title>
+  <title>About negoHACK — Resilience First. Credit Second.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -16,15 +16,21 @@
     main {
       max-width: 800px;
       margin: auto;
+      animation: fadeIn 1.2s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(15px);}
+      to {opacity: 1; transform: translateY(0);}
     }
     h1 {
       text-align: center;
       color: #f2c200;
-      font-size: 2.2em;
+      font-size: 2.3em;
       margin-bottom: 0.4em;
+      letter-spacing: 0.3px;
     }
     h2 {
-      color: #f2c200;
+      color: #00c6b8;
       margin-top: 1.8em;
       font-size: 1.4em;
     }
@@ -32,12 +38,16 @@
       margin-bottom: 1.2em;
       font-size: 1.05em;
     }
-    a {
+    strong {
       color: #f2c200;
+    }
+    a {
+      color: #00c6b8;
       text-decoration: none;
+      transition: color 0.2s ease;
     }
     a:hover {
-      text-decoration: underline;
+      color: #f2c200;
     }
     footer {
       text-align: center;
@@ -52,33 +62,43 @@
       text-decoration: none;
       font-weight: 600;
     }
+    .social-links {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .social-links a {
+      margin: 0 8px;
+      font-size: 1.4em;
+    }
   </style>
 </head>
 <body>
   <main>
     <a href="index.html" class="back">← Back to Home</a>
-    <h1>About NegoHack</h1>
-    <p><strong>NegoHack</strong> is a ResilienceTech platform designed to help Filipino microentrepreneurs escape the debt trap by making resilience the first step before credit.</p>
+    <h1>About <span style="color:#00c6b8;">nego</span>HACK</h1>
+
+    <p><strong>negoHACK</strong> is a ResilienceTech platform designed to help Filipino microentrepreneurs escape the debt trap by making resilience the first step before credit.</p>
 
     <h2>Our Mission</h2>
-    <p>To flip the system — from “credit first, resilience optional” to “resilience first, credit second.” We empower sari-sari stores, carinderias, and vendors to build financial strength through better record-keeping, micro-insurance, and smart lending habits.</p>
+    <p>To flip the system — from “credit first, resilience optional” to “resilience first, credit second.” We empower sari-sari stores, carinderias, and vendors to build financial strength through better record-keeping, microinsurance, and smart lending habits.</p>
 
     <h2>How It Works</h2>
-    <p>NegoHack integrates <strong>MicroERP</strong> (business tracking), <strong>Microinsurance</strong> (adaptive protection), and <strong>Microfinance</strong> (resilience-based lending). Each good business habit earns <strong>HackPoints</strong> and improves the vendor’s <strong>NegoScore</strong> — turning daily actions into long-term protection and credit readiness.</p>
+    <p>negoHACK integrates <strong>MicroERP</strong> (business tracking), <strong>Microinsurance</strong> (adaptive protection), and <strong>Microfinance</strong> (resilience-based lending). Each good business habit earns <strong>HackPoints™</strong> and improves the vendor’s <strong>NegoScore™</strong> — turning daily actions into long-term protection and credit readiness.</p>
 
     <h2>Our Story</h2>
-    <p>Born from lived experience, NegoHack was inspired by generations of Filipino families running small stores and carinderias — often thriving until disaster struck. When Typhoon Odette, COVID, or fires hit, recovery depended on loans, not protection. NegoHack was built to break that cycle, turning vulnerability into readiness.</p>
+    <p>Born from lived experience, negoHACK was inspired by generations of Filipino families running small stores and carinderias — often thriving until disaster struck. When Typhoon Odette, COVID, or fires hit, recovery depended on loans, not protection. negoHACK was built to break that cycle, turning vulnerability into readiness.</p>
 
     <h2>Join the Movement</h2>
     <p>We’re launching our pilot program in Cebu, partnering with microenterprises, local government units, and insurers to validate the Resilience-First model. Want to collaborate or support the mission?</p>
-    <p>
+
+    <div class="social-links">
       📩 <a href="mailto:negohackph@gmail.com">negohackph@gmail.com</a><br>
       🌐 <a href="https://www.facebook.com/share/14Tu5W5V1fK/">Facebook</a> · 
       💼 <a href="https://www.linkedin.com/in/rhonielcaballero">LinkedIn</a>
-    </p>
+    </div>
 
     <footer>
-      Built by NegoHACK © 2025 · Resilience First. Credit Second.
+      Built by negoHACK © 2025 · Resilience First. Credit Second.
     </footer>
   </main>
 </body>
